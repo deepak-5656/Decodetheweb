@@ -28,3 +28,10 @@
 // formula for generating the random number between 1 to n is Math.floor(Math.random()*(max-min+1)+min)  where max is the maximum number and min is the minimum number
 
 //but we will not use this random generation for otp why? used seed concept 
+
+
+
+
+
+
+
