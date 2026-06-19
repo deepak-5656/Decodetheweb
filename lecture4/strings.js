@@ -50,3 +50,6 @@
 // split function --used to split like array like structure
 let data = "Amir, Rohit, Anug,Anjali";
 console.log(data.split(','));
+
+
+
