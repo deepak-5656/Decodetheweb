@@ -49,6 +49,9 @@ const customer = {
     }
 }
 // but this is not recomended so not used directly
+
+
+
 for(let key in customer){
     console.log(key);
 }
