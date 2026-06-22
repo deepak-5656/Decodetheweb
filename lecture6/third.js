@@ -13,3 +13,4 @@ console.log(names.lastIndexOf("sohan"));
 // includes operator
 console.log(names.includes("sohan"));
 
+    
