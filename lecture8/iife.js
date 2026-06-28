@@ -3,7 +3,7 @@
 // (function hello(){
 //     console.log("hello");
 
-// })();  //this bracket is used to callthe function after the funciton is written now if we execute the file it will call automatically
+// })();  //this bracket is used to callthe function after the funciton is written now if we execute the file it will call automatically call this function and it is get printed as ouput
 
 
 
@@ -26,20 +26,20 @@
 
 // callback--example2
 
-function greet(){
-    console.log("hello man");
-}
+// function greet(){
+//     console.log("hello man");
+// }
 
-function morning(){
-    console.log("Good moring");
-}
-function meet(callback){
-    console.log("hello meet");
-    callback();
-    console.log("i am done");
-}
+// function morning(){
+//     console.log("Good moring");
+// }
+// function meet(callback){
+//     console.log("hello meet");
+//     callback();
+//     console.log("i am done");
+// }
 
 
 // meet(greet); 
 // we can use multiple functions in this
-meet(morning);
+// meet(morning);

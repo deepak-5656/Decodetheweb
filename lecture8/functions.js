@@ -52,11 +52,11 @@
 // let arr = [10,20,30,40,50];
 
 // //spread operator
-// const arr2 = [...arr];  //it will copy the arr int arr2 thats it but it should exist the array otherwise wont work
+// const arr2 = [...arr];  //it will copy the arr into arr2 thats it but it should exist the array otherwise wont work
 
 // //console.log(arr2);
 // // rest operator
-// const[first,second,...third] = arr;   //this will put rest all the eleent into the third one
+// const[first,second,...third] = arr;   //this will put rest all the element into the third one
 // console.log(first,second,third);
 
 

@@ -22,5 +22,7 @@ function payment(amount,callback){
     // commission payment calculate
 }
 
-payment(500,zomatoRestaurant);//now  the function is flexible becaue using callback if zomoto means i t call that or if blinkit means it will call blinkit payment gateway
+// so it used in this case to improve efficiency that is why we are learning lld 
+payment(500,zomatoRestaurant);//now  the function is flexible because using callback if zomoto means i t call that or if blinkit means it will call blinkit payment gateway
 payment(1000,blinkitwarehouse);
+

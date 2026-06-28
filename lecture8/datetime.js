@@ -25,5 +25,7 @@
 // other way to write date --new date(year,month,day,hours,minutes,seconds,ms);
 const mydate= new Date(2021,8,4,6,20,11,123);
 console.log(mydate);
+ 
+
 
 
