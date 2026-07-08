@@ -8,7 +8,7 @@ const obj = {
 }
 
 
-
+console.log(obj.name);
 
 
 // docuemnt.getElementById("btn")--IT IS THE METHOD in docuemnt to get that html element it is converted into object form not as html form okay
